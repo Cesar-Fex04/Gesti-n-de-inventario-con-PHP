@@ -46,23 +46,23 @@ Credenciales por defecto (cambia inmediatamente):
 Capturas / imágenes
 
 
-- Pantalla Inicio
-![Pantalla Inicio](Admin_Panel_Management_PHP_MYSQL-master/images/Inicio.png)
+ - Pantalla Inicio
+ ![Pantalla Inicio](images/Inicio.png)
 
-- Vista del Usuario
-![Vista del Usuario](Admin_Panel_Management_PHP_MYSQL-master\images\vistaUser.png)
+ - Vista del Usuario
+ ![Vista del Usuario](images/vistaUser.png)
 
-- Vista del Administrador
-![Vista del Administrador](Admin_Panel_Management_PHP_MYSQL-master/images/vistaAdmin.png)
+ - Vista del Administrador
+ ![Vista del Administrador](images/vistaAdmin.png)
 
-- Descargar Backup de base de datos
-![Descargar Backup de base de datos](Admin_Panel_Management_PHP_MYSQL-master/images/Backup.png)
+ - Descargar Backup de base de datos
+ ![Descargar Backup de base de datos](images/Backup.png)
 
-- Modificar Producto
-![Modificar Producto](Admin_Panel_Management_PHP_MYSQL-master/images/EditarProducto.png)
+ - Modificar Producto
+ ![Modificar Producto](images/EditarProducto.png)
 
-- Imprimir Producto
-![Imprimir Producto](Admin_Panel_Management_PHP_MYSQL-master/images/print.png)
+ - Imprimir Producto
+ ![Imprimir Producto](images/print.png)
 
 
 Este fue un proyecto escolar para la materia de Ingenieria de Software 1 en 2024.

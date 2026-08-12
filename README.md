@@ -44,28 +44,30 @@ Credenciales por defecto (cambia inmediatamente):
 - Contraseña: `Achref1`
 
 Capturas / imágenes
-![Pantalla Inicio](images/Inicio.png)
+
+
+![Pantalla Inicio](Admin_Panel_Management_PHP_MYSQL-master/images/Inicio.png)
 
 Si más adelante agregas otras capturas, usa el mismo formato:
 
 ```md
-![Vista del Usuario](images/vistaUser.png)
+![Vista del Usuario](Admin_Panel_Management_PHP_MYSQL-master/images/vistaUser.png)
 ```
 
 ```md
-![Vista del Administrador](images/vistaAdmin.png)
+![Vista del Administrador](Admin_Panel_Management_PHP_MYSQL-master/images/vistaAdmin.png)
 ```
 
 ```md
-![Descargar Backup de base de datos](images/backup.png)
+![Descargar Backup de base de datos](Admin_Panel_Management_PHP_MYSQL-master/images/Backup.png)
 ```
 
 ```md
-![Modificar Producto](images/EditarProducto.png)
+![Modificar Producto](Admin_Panel_Management_PHP_MYSQL-master/images/EditarProducto.png)
 ```
 
 ```md
-![Imprimir Producto](images/print.png)
+![Imprimir Producto](Admin_Panel_Management_PHP_MYSQL-master/images/print.png)
 ```
 
 Este fue un proyecto escolar para la materia de Ingenieria de Software 1 en 2024.

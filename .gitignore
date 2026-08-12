@@ -1,0 +1,34 @@
+.idea/
+.vscode/
+/.env
+/.DS_Store
+Thumbs.db
+
+# PHP vendor
+/vendor/
+/vendor/vendor/
+/Admin_Panel_Management_PHP_MYSQL-master/vendor/
+
+# Nested project folder (if the repo contains the project inside another folder)
+/Admin_Panel_Management_PHP_MYSQL-master/node_modules/
+/Admin_Panel_Management_PHP_MYSQL-master/vendor/
+
+# Node
+/node_modules/
+
+# Ignore node_modules inside nested folders too
+**/node_modules/
+
+# Backups and database dumps
+*.sql
+/backups/
+
+# Cypress
+/cypress/
+**/cypress/
+
+# Logs and runtime files
+*.log
+
+# OS files
+desktop.ini

@@ -1,0 +1,114 @@
+
+
+/*Import Google Fonts*/
+@import url('https://fonts.google.com/share?selection.family=Blinker:wght@100;200;300;400;600;700;800;900');
+
+
+
+.m   {
+  background: linear-gradient(to bottom, purple, pink);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 120vh;
+  margin: 0;
+  font-family: 'Blinker', sans-serif;
+  
+}
+
+.container {
+  font-family: 'Blinker', sans-serif;
+}
+
+.card-body {
+  background: white;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  font-family: 'Blinker', sans-serif;
+}
+
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #222;
+  font-family: 'Blinker', sans-serif;
+  font-weight: 400;
+  margin-top: 0;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  font-family: 'Blinker', sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  color: #333;
+}
+
+
+h1 {
+  font-size: 36px;
+  line-height: 42px;
+}
+
+h2 {
+  font-size: 32px;
+  line-height: 36px;
+}
+
+h3 {
+  font-size: 24px;
+  line-height: 30px;
+}
+
+h4 {
+  font-size: 18px;
+  line-height: 24px;
+}
+
+h5 {
+  font-size: 14px;
+  line-height: 18px;
+}
+
+h6 {
+  font-size: 12px;
+  line-height: 24px;
+}
+
+/* Floating label styles */
+.relative {
+  position: relative;
+  margin-top: 16px;
+}
+
+.block {
+  display: block;
+  width: 100%;
+}
+
+.peer-placeholder-shown ~ label {
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 16px;
+  color: #6b7280; /* Ajusta el color según tu diseño */
+}
+
+.peer:focus ~ label,
+.peer:not(:placeholder-shown) ~ label {
+  top: 0;
+  left: 10px;
+  transform: scale(0.75) translateY(-10px);
+  color: #2563eb; /* Cambia el color al enfocar */
+}
+
+input:focus ~ label {
+  color: #2563eb;
+}

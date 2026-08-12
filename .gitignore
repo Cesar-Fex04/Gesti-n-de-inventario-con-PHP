@@ -2,7 +2,6 @@
 .vscode/
 /.env
 /.DS_Store
-Thumbs.db
 
 # PHP vendor
 /vendor/
